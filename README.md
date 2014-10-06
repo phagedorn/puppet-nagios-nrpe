@@ -1,4 +1,5 @@
 # puppet-nagios-nrpe
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/phagedorn/puppet-nagios-nrpe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This module automates the installation/management of the NRPE agent for Nagios/Opsview.
 
